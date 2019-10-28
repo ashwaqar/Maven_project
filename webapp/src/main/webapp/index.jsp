@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, User !!! </h1>
+<h2> Welcome to DevOps Final project </h2>
+<h3> Congrates! on completion of the project alloted to you. </h3>
