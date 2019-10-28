@@ -6,9 +6,10 @@
 
 <body bgcolor="white" text="blue">
 
-<h1> My first page </h1>
+<h1> Congratualtions !!! </h1>
+<h3>You have succesfully completed the DevOps Project.</h3>
 
-This is my first web page and I can say anything I want in here - I do that by putting text or images in the body section - where I'm typing right now :)
+Please contact me to learn AWS, ELK, Python too!
 
 </body>
 
